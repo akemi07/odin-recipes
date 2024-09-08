@@ -14,8 +14,10 @@ img {
 }
 
 a {
-    color: #ea9a97;
+    color: #2a283e;
     text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 a:hover {
@@ -24,13 +26,9 @@ a:hover {
 
 .pasta, .ramen, .beer {
     background-color: transparent;
+    margin: 0px 150px 0px -140px;
 }
 
-.pasta {
-    margin: 0px 150px 0px -200px;
+.box {
+    margin: 0px auto 0px 180px;
 }
-
-.ramen {
-
-}
-
